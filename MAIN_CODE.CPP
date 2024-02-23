@@ -3,7 +3,6 @@
     Nguyen Trai High School - Quang Binh
 */
 #include <bits/stdc++.h>
-
 using namespace std;
 
 signed main(){
